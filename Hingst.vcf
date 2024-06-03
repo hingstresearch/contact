@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 17.4.1//EN
+N:Hing;WK;;;
+FN:WK Hing
+ORG:Hingst Research;
+EMAIL;type=INTERNET;type=pref:wk@hingst.co
+TEL;type=CELL;type=VOICE;type=pref:+60197373108
+item1.URL;type=pref:hingst.co
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
